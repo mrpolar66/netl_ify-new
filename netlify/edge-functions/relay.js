@@ -1,4 +1,4 @@
-const TARGET_BASE = "https://ray.ghotbi.us.ci:5101".replace(/\/$/, "");
+const TARGET_BASE = "https://ray.ghotbi.us.ci:7010".replace(/\/$/, "");
 const GITHUB_PAGE = "https://ir-netlify.github.io/NETLIFY/";
 
 const STRIP_HEADERS = new Set([
